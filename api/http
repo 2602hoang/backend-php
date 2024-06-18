@@ -1,0 +1,5 @@
+http://localhost/PHP/api/api_v1/getfood.php
+http://localhost/PHP/api/api_v1/getSanpham.php
+
+http://localhost/PHP/api/module/danhsachF.php
+http://localhost/PHP/api/module/danhsach.php
